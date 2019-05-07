@@ -1,6 +1,6 @@
 include $(THEOS)/makefiles/common.mk
 
-ARCHS = arm64
+ARCHS = arm64 arm64e
 
 TWEAK_NAME = Rooster
 Rooster_FILES = Tweak.xm
